@@ -1,1 +1,1 @@
-console.log("hello world(origin commit 2)");
+console.log("hello from projA!");
